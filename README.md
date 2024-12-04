@@ -19,7 +19,9 @@ sudo apt install firewalld -y   # For Ubuntu/Debian
 
 ## Firewalld Modes:- Firewalld operates in two modes:
 
-1. Runtime Configuration: Changes apply immediately but revert after reboot.2.2. 2. 2. Permanent Configuration: Persistent across reboots but require a reload to 
+1. Runtime Configuration: Changes apply immediately but revert after reboot.
+  
+2. Permanent Configuration: Persistent across reboots but require a reload to 
 
 
 
